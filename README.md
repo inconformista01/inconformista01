@@ -16,21 +16,6 @@
 
 ---
 
-### 📊 Performance & Development Metrics
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=inconformista01&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&count_private=true&include_all_commits=true" width="100%" alt="Fran's GitHub Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inconformista01&layout=compact&theme=tokyonight&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9&count_private=true&langs_count=8" width="100%" alt="Fran's Top Languages" />
-    </td>
-  </tr>
-</table>
-
----
-
 ### 🧠 Engineering Background & Infrastructure Philosophy
 
 Titulado en **Sistemas Microinformáticos y Redes (SMR)** y actualmente cursando **Desarrollo de Aplicaciones Multiplataforma (DAM)**. Mi enfoque integra el rigor de la administración de sistemas y redes Linux con el diseño de software modular full-stack, arquitecturas concurrentes y pipelines aumentados por inteligencia artificial.
